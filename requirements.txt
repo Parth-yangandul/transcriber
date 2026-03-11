@@ -1,0 +1,5 @@
+sounddevice>=0.4.4
+numpy>=1.21.0
+faster-whisper>=0.6.0
+flask>=2.0.0
+python-socketio>=5.3.0
